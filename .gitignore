@@ -3,3 +3,4 @@
 __pycache__/
 
 # Add more files & directories as needed
+yellow_tripdata_2015-01.parquet
