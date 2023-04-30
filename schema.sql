@@ -56,3 +56,16 @@ create table if not exists uber_trip(
   hour int,
   cal_distance float
 )
+
+create table if not exists sun_weather
+(
+    id int primary key,
+    date timestamp,
+    year int,
+    month int,
+    day int,
+    week int,
+    hour int,
+    sunrise float,
+    sunset float
+);
