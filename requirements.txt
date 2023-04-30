@@ -1,1 +1,7 @@
 # Add your third-party Python libraries here
+# !pip install pandas==1.4.2
+# !pip install pyarrow==7.0.0
+# !pip install geopandas
+# !pip install pyarrow
+# !pip install fastparquet
+# !pip install keplergl
